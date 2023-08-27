@@ -1,0 +1,124 @@
+.Des {
+    font-family: Muli,sans-serif;
+    width: 100%;
+    height: 950px;
+    /* border: 2px solid red; */
+}
+.first_div{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    height: 250px;
+    
+}
+.inside_firstdiv{
+    background: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiVnIUzgG-eS1_vhDdCvJvght8T7oiaRsvOrrIZPk9_tqW_VFyQvDG-Jjh9ACad7VPARw&usqp=CAU") no-repeat;
+    width: 250px;
+    height: 200px;
+    margin-right: 50px;
+    cursor: pointer;
+    transition: transform 0.3s ease;
+}
+.inside_firstdiv:hover{
+    transform: scale(1.1);
+    position: relative;
+    z-index: 1;
+}
+
+.inside_seconddiv{
+    background: url("https://media.istockphoto.com/id/1460965948/photo/los-angeles-ca.webp?b=1&s=170667a&w=0&k=20&c=-W2Nr7rWw3eco22ErIDx5A4E9lgqVumS6oFyms2MKbU=") no-repeat;
+    width: 500px;
+    height: 200px;
+    cursor: pointer;
+    transition: transform 0.3s ease;
+}
+.inside_seconddiv:hover{
+    transform: scale(1.1);
+    position: relative;
+    z-index: 1;
+}
+
+.second_div{
+    margin-top: 8px;
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    height: 280px;
+    
+}
+.inside_thirddiv{
+    background: url("https://www.honeymoonpackagesmanali.org/uploads/8/2/6/1/8261259/p179.png") no-repeat;
+    width: 250px;
+    height: 250px;
+    margin-right: 50px;
+    cursor: pointer;
+    transition: transform 0.3s ease;
+}
+.inside_thirddiv:hover{
+    transform: scale(1.1);
+    position: relative;
+    z-index: 1;
+}
+.inside_fourthdiv{
+    background: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTxzfvU5dPBiCjZniAnvS16qVv5uFdIxjcyQ&usqp=CAU") no-repeat;
+    width: 200px;
+    height: 250px;
+    margin-right: 50px;
+    cursor: pointer;
+    transition: transform 0.3s ease;
+}
+.inside_fourthdiv:hover{
+    transform: scale(1.1);
+    position: relative;
+    z-index: 1;
+}
+.inside_fifthdiv{
+    background-color: orange;
+    height: 250px;
+    width: 250px;
+    cursor: pointer;
+    transition: transform 0.3s ease;
+}
+.inside_fifthdiv:hover{
+    transform: scale(1.1);
+    position: relative;
+    z-index: 1;
+    background-color: black;
+    opacity: 0.8;
+    color: orange;
+}
+
+.third_div{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    height: 250px;
+    /* border: 2px solid gray; */
+}
+.inside_sixthdiv{
+     background: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLGja_yDrNvrsiE01IpBfXr9OFclRUdULPKf7EQVKziMiP8m0VHM1y9KbNvNng2XXnyT4&usqp=CAU") no-repeat;
+    width: 250px;
+    height: 250px;
+    margin-right: 50px;
+    cursor: pointer;
+    transition: transform 0.3s ease;
+}
+.inside_sixthdiv:hover{
+    transform: scale(1.1);
+    position: relative;
+    z-index: 1;
+}
+.inside_seventhdiv{
+    background: url("https://assets.traveltriangle.com/blog/wp-content/uploads/2019/01/Kashmir-1.jpg")no-repeat;
+    width: 450px;
+    height: 220px;
+    margin-right: 50px;
+    cursor: pointer;
+    transition: transform 0.3s ease;
+}
+.inside_seventhdiv:hover{
+    transform: scale(1.1);
+    position: relative;
+    z-index: 1;
+}
+

@@ -1,0 +1,18 @@
+.Easy_Use{
+    font-family: Muli,sans-serif;
+    width: 100%;
+    height: 400px;
+    border: 2px solid white;
+    margin-bottom: 10px;
+}
+.Div_Container{
+    margin-top: 80px;
+    display: flex;
+    justify-content: space-evenly;
+    
+}
+.Conatiner{
+
+    height: 220px;
+    width: 200px;
+}
